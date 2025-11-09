@@ -1,0 +1,7 @@
+I created a new directory called 0x03-sass_scss
+in my ubuntu terminal, i installed node version 20.16 as follows:
+        $ curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
+        then i Exit the terminal using the exit command then reopened it
+i then install SASS by using the following command if you have node installed:
+        npm install sass -v 3.7.4
+lastly i Created an empty file and named it "0-installation-script"
